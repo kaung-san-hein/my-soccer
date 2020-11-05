@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64676809569",
+    "firebase_url": "https://my-soccer-841eb.firebaseio.com",
+    "project_id": "my-soccer-841eb",
+    "storage_bucket": "my-soccer-841eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64676809569:android:0cdb28e83b864f6b341320",
+        "android_client_info": {
+          "package_name": "com.kaungsanhein.my_soccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64676809569-3mfdt2ciivt8uk3kpg1bjdavgvbvo910.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjyfRYwnzSgVSEB2ZpBXbfiXkh7dBHjrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64676809569-3mfdt2ciivt8uk3kpg1bjdavgvbvo910.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
